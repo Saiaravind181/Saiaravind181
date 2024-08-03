@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm SAI ARAVIND BHURANPUR</h1>
-<h3 align="center">A dedicated MERN stack developer from India, blending creativity and technology to build innovative solutions.</h3>
+<h3 align="center">🌟 Passionate about turning ideas into code! | 🔧 Improving projects with every commit! | 🚀 Turning concepts into great solutions.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiaravind181&label=Profile%20views&color=0e75b6&style=flat" alt="saiaravind181" /> </p>
 
 - 🔭 I’m currently working on **Discord_Bot**
-
-- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Java, React, Node.js, Express.js, MongoDB**
 
