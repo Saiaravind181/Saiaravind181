@@ -22,7 +22,7 @@
   <a href="https://instagram.com/_arav_2004" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/sai_aravind181/" target="blank">
+  <a href="https://leetcode.com/u/Sai_aravind181/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
