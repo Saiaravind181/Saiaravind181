@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm SAI ARAVIND BHURANPUR</h1>
-<h3 align="center">🌟 Passionate about turning ideas into code! | 🔧 Improving projects with every commit! | 🚀 Turning concepts into great solutions.
-</h3>
+<h3 align="center">🌟 Passionate about turning ideas into code! | 🔧 Improving projects with every commit! | 🚀 Turning concepts into great solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiaravind181&label=Profile%20views&color=0e75b6&style=flat" alt="saiaravind181" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=saiaravind181&label=Profile%20views&color=0e75b6&style=flat" alt="saiaravind181" /> 
+</p>
 
-- 🔭 I’m currently working on **Discord_Bot**
+- 🔭 I’m currently working on **[Discord_Bot](https://github.com/Saiaravind181/Discord_Bot)**
 
 - 💬 Ask me about **Java, React, Node.js, Express.js, MongoDB**
 
@@ -72,7 +73,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiaravind181&show_icons=true&locale=en&layout=compact" alt="saiaravind181" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiaravind181&show_icons=true&locale=en" alt="saiaravind181" /></p>
