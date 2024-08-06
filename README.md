@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **[Discord_Bot](https://github.com/Saiaravind181/Discord_Bot)**
 
-- 💬 Ask me about **Java, React, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **bhuranpursaiaravind@gmail.com**
 
